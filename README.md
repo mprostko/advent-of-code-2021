@@ -5,7 +5,7 @@ Here's my attempt on solving AoC 2021 in Ruby :christmas_tree:
 |Name|File|Stars|
 |---|---|---|
 |[Day 01: Sonar Sweep](https://adventofcode.com/2021/day/1)|[day01.rb](/day01.rb)|:star: :star:|
-|[Day 02: ???](https://adventofcode.com/2020/day/2)|not available|:white_circle: :white_circle:|
+|[Day 02: Dive!](https://adventofcode.com/2020/day/2)[day02.rb](/day02.rb)|:star: :star:|
 |[Day 03: ???](https://adventofcode.com/2020/day/3)|not available|:white_circle: :white_circle:|
 |[Day 04: ???](https://adventofcode.com/2020/day/4)|not available|:white_circle: :white_circle:|
 |[Day 05: ???](https://adventofcode.com/2020/day/5)|not available|:white_circle: :white_circle:|
